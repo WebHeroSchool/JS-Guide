@@ -1,6 +1,6 @@
 #JS-Guide
 
-# h1 JavaScript Style Guide
+# JavaScript Style Guide
 
 ## Объекты
 
