@@ -2,7 +2,7 @@
 
 # h1 JavaScript Style Guide
 
-## h2 Объекты
+## Объекты
 
 Для создания объекта используйте литеральную нотацию. eslint: [no-new-object](https://eslint.org/docs/rules/no-new-object.html)
 
@@ -41,7 +41,7 @@ const obj = {
 };
 ```
 
-## h2 Строки
+## Строки
 
 Используйте одинарные кавычки `''` для строк. eslint: [quotes](https://eslint.org/docs/rules/quotes.html)
 
@@ -81,7 +81,7 @@ function sayHi(name) {
 }
 ```
 
-## h2 Функции
+## Функции
 
 Функции с многостроным определением или запуском должны содержать такие же
 отступы, как и другие многострочные списки в этом руководстве: с каждым элементом
@@ -137,7 +137,7 @@ const itemHeight = (item) => {
 };
 ```
 
-## h2 Классы и конструкторы
+## Классы и конструкторы
 
 Используйте `class`. Избегайте прямых манипуляций с prototype.
 
@@ -186,7 +186,7 @@ class PeekableQueue extends Queue {
 }
 ```
 
-## h2 Свойства
+## Свойства
 
 Используйте точечную нотацию для доступа к свойствам. eslint: [dot-notation](https://eslint.org/docs/rules/dot-notation.html)
 
